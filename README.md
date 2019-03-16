@@ -1,5 +1,7 @@
 # CityViewPlus
 
+CityViewPlus was a system that was constructed by a team of three students. CityViewPlus visualizes data from datasets that are attributed to and describe Boston.
+
 # ABSTRACT
 The goal of this project is to deliver on visualizations that tell a story which is clear and understandable to the masses. To accomplish this goal, we will complete two main objectives. First, we will identify categories and subjects we want to tackle based on the datasets we can utilize. Afterwards, we will create a website which utilizes these up to date datasets and clear, understandable data visualizations which will each describe a phenomenon in the city of Boston.
 
